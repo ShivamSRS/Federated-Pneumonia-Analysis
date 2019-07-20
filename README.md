@@ -24,3 +24,10 @@ No additional instructions needed just run the neural network.
 You can check out the full license in the LICENSE file.
 
 This project is licensed under the terms of the **MIT** license.
+
+
+------------------------------------------------------------------
+## Updates
+
+X_ray_pneumonia-federated-PySyft.ipynb has implemented only federated learning version of the project
+X_ray_pneumonia_federated_PySyft.ipynb has federated training and encrypted sharing of model for inference on workers (in progress)
